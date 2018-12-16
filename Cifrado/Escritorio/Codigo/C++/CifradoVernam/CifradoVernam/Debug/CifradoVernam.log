@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 15/10/2018 03:27:06 p. m..
+     1>Proyecto "C:\Users\nga_a\Documents\Visual Studio 2012\Projects\CifradoVernam\CifradoVernam\CifradoVernam.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CifradoVernam.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CifradoVernam.cpp
+         CifradoVernam.cpp
+     1>c:\users\nga_a\documents\visual studio 2012\projects\cifradovernam\cifradovernam\cifradovernam.cpp(23): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\nga_a\documents\visual studio 2012\projects\cifradovernam\cifradovernam\cifradovernam.cpp(86): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\nga_a\documents\visual studio 2012\projects\cifradovernam\cifradovernam\cifradovernam.cpp(122): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\nga_a\documents\visual studio 2012\projects\cifradovernam\cifradovernam\cifradovernam.cpp(133): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nga_a\Documents\Visual Studio 2012\Projects\CifradoVernam\Debug\CifradoVernam.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\nga_a\Documents\Visual Studio 2012\Projects\CifradoVernam\Debug\CifradoVernam.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nga_a\Documents\Visual Studio 2012\Projects\CifradoVernam\Debug\CifradoVernam.lib" /MACHINE:X86 Debug\CifradoVernam.obj
+         Debug\stdafx.obj
+         CifradoVernam.vcxproj -> C:\Users\nga_a\Documents\Visual Studio 2012\Projects\CifradoVernam\Debug\CifradoVernam.exe
+     1>Compilación del proyecto terminada "C:\Users\nga_a\Documents\Visual Studio 2012\Projects\CifradoVernam\CifradoVernam\CifradoVernam.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.59
