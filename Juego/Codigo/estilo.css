@@ -1,0 +1,29 @@
+html, body {
+    width:  100%;
+    height: 100%;
+    margin: 0;
+}
+
+.presentacion label {
+    text-align: left;
+    font-size: 15px;
+}
+
+.canvas-main {
+    margin: 50px auto;
+    width: 500px;
+}
+
+.canvas-main .canvas-actions {
+    display: flex;
+    text-align: center;
+}
+.canvas-main .canvas-actions button {
+    background: #7EABD4;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    font-family: Sans-Serif;
+    font-size: 16px;
+    display: inline-block;
+}
